@@ -18,6 +18,7 @@
 
 - 🔬 **[static-x](https://github.com/thegoldenmule/static-x)** - Compiler-grade code intelligence for LLMs: language-server tools over MCP, not grep
 - 🪝 **[hooks](https://github.com/thegoldenmule/hooks)** - Claude Code hooks: daily standups, commit logs, tl;dr enforcement, context statusline
+- 🧰 **[gh-for-agents](https://github.com/thegoldenmule/gh-for-agents)** - A validated GitHub CLI for coding agents: structured PRs, one-call PR state, CI waits without polling
 - 🔋 **[claude-tray](https://github.com/thegoldenmule/claude-tray)** - Native macOS menu bar meter for your Claude session and weekly usage limits
 - 🧭 **[claude-watcher](https://github.com/thegoldenmule/claude-watcher)** - Auto-hiding macOS sidebar of your Claude Code sessions: click one to jump to its terminal, any Space
 - 📚 **[hotseat-web](https://wiki.thegoldenmule.com)** - Event-sourced, LLM-first wiki: typed pages, FSM-gated mutations, agents edit over MCP
