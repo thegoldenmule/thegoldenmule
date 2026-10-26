@@ -58,7 +58,8 @@
 ## Education
 
 - 🎓 **[CSCI 5030: Principles of Software Development](https://github.com/thegoldenmule/csci-5030)** - Graduate course I taught at Saint Louis University: lectures, product briefs, and a semester-long Scrum project
-- 🖼️ **[CSCI 4820: Computer Graphics](https://github.com/thegoldenmule/webgl-graphics-engine)** - The WebGL 2 engine from the graphics course I taught at SLU: a complete 3D library in 1200 lines
+- 🖼️ **[CSCI 4820: Computer Graphics](https://github.com/thegoldenmule/csci-4820)** - The WebGL 2 course I taught at SLU: syllabus, lessons, homework with solutions, and exams
+- 🧊 **[webgl-graphics-engine](https://github.com/thegoldenmule/webgl-graphics-engine)** - The engine built in that course: a complete 3D graphics library in 1200 lines, built for teaching
 - 📐 **[Numerical Integration Explainer](https://thegoldenmule.com/explainer-numerical-integration)** - Why physics engines blow up: an interactive guide to numerical stability
 - 📝 **[Git & JavaScript Primers](https://github.com/thegoldenmule/education)** - Intro handouts on version control and JavaScript, typeset in LaTeX with PDFs
 - 📚 **[learning-resources](https://thegoldenmule.github.io/learning-resources/)** - The books, articles, and talks I point people to for learning programmery things
