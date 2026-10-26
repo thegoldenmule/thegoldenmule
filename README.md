@@ -37,6 +37,7 @@
 - 🧠 **[moveborne-godot](https://github.com/thegoldenmule/moveborne-godot)** - Cheat-proof competitive puzzle game: Godot client, hash-matched server validator
 - 🧬 **[llm-quines](https://github.com/thegoldenmule/llm-quines)** - Evolutionary agent loop breeding ever-weirder JavaScript quines, judged by Claude
 - 🃏 **[war](https://github.com/thegoldenmule/war)** - The card game War, plus Balatro-style special cards and a server-authoritative validator
+- 🐚 **[terminal-wrapped](https://github.com/thegoldenmule/terminal-wrapped)** - Spotify Wrapped for your shell history, including the secrets you leaked
 
 ## Powerhouse
 
@@ -56,11 +57,10 @@
 
 ## From the Archives
 
-- 🐚 **[terminal-wrapped](https://github.com/thegoldenmule/terminal-wrapped)** - Spotify Wrapped for your shell history, including the secrets you leaked
-- 🥁 **[midipad-daemon](https://github.com/thegoldenmule/midipad-daemon)** - Turn a MIDI drum pad into a programmable macro keyboard for macOS
-- 🧵 **[verlet](https://github.com/thegoldenmule/verlet)** - Verlet-integration cloth simulation in three.js
-- 🔐 **[nk](https://github.com/thegoldenmule/nk)** - No-knowledge key/value store: the server can't read your data
-- 📜 **[jint](https://github.com/thegoldenmule/jint)** - JavaScript interpreter for Unity: iOS-safe, with a scene query language and live REPL
-- 📖 **[story](https://github.com/thegoldenmule/story)** - Describe a world in plain English; the game AI figures out how to use it
-- ☁️ **[RealtimeClouds](https://github.com/thegoldenmule/RealtimeClouds)** - Procedural real-time clouds on the GPU
 - 📦 **[boX](https://github.com/thegoldenmule/boX)** - WebGL 2D engine with a scene query language, animation curves, and cloth sim
+- 🔐 **[nk](https://github.com/thegoldenmule/nk)** - No-knowledge key/value store: the server can't read your data
+- 🥁 **[midipad-daemon](https://github.com/thegoldenmule/midipad-daemon)** - Turn a MIDI drum pad into a programmable macro keyboard for macOS
+- ☁️ **[RealtimeClouds](https://github.com/thegoldenmule/RealtimeClouds)** - Procedural real-time clouds on the GPU
+- 🧵 **[verlet](https://github.com/thegoldenmule/verlet)** - Verlet-integration cloth simulation in three.js
+- 📖 **[story](https://github.com/thegoldenmule/story)** - Describe a world in plain English; the game AI figures out how to use it
+
